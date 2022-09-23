@@ -1,7 +1,7 @@
 <img src="public/banner-netflix.png">
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hrcules/netflix?color=D81F26">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hrcules/netflix-clone?color=D81F26">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
