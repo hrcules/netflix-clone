@@ -1,0 +1,35 @@
+header {
+  position: fixed;
+  z-index: 20;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+  background: transparent;
+  transition: all ease 0.5s;
+}
+
+header.scroll {
+  background: #141414;
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+}
+
+.header__logo {
+  height: 64px;
+}
+
+.header__logo img {
+  height: 100%;
+}
+
+.header__user {
+  height: 40px;
+}
+
+.header__user img {
+  height: 100%;
+}
